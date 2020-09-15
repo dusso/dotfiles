@@ -1,20 +1,37 @@
 {
-  "installed_packages":
-  [
-    "A File Icon",
-    "AdvancedNewFile",
-    "All Autocomplete",
-    "Babel",
-    "Emmet",
-    "ERB Snippets",
-    "Git",
-    "Latest Migration",
-    "MagicPython",
-    "Package Control",
-    "SCSS",
-    "SublimeLinter",
-    "SublimeLinter-rubocop",
-    "BracketHighlighter",
-    "Color Highlight"
-  ]
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"10% Too Dull for My Tastes Color Scheme",
+		"1337 Color Scheme",
+		"1Self",
+		"3024 Color Scheme",
+		"A File Icon",
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Babel",
+		"BracketHighlighter",
+		"Browser Sync",
+		"Color Highlight",
+		"ColorPicker",
+		"Dark Knight Color Scheme",
+		"Darkula Color Scheme",
+		"Dracula Color Scheme",
+		"Emmet",
+		"ERB Snippets",
+		"Git",
+		"Latest Migration",
+		"LiveReload",
+		"MagicPython",
+		"MarkdownLivePreview",
+		"Package Control",
+		"SCSS",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"SublimeLinter-rubocop",
+		"TerminalView"
+	]
 }

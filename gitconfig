@@ -49,3 +49,5 @@
 [user]
 	email = dddusso@gmail.com
 	name = Denis Dusso
+[pull]
+	rebase = false
